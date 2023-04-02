@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/meditest_tex_tester/static/css/main.a19e0433.css",
-    "main.js": "/meditest_tex_tester/static/js/main.dc038ba8.js",
+    "main.css": "/meditest_tex_tester/static/css/main.664b7b4f.css",
+    "main.js": "/meditest_tex_tester/static/js/main.fae63604.js",
     "static/js/787.e1f00c95.chunk.js": "/meditest_tex_tester/static/js/787.e1f00c95.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/meditest_tex_tester/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/meditest_tex_tester/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -64,12 +64,12 @@
     "static/media/KaTeX_Size3-Regular.woff": "/meditest_tex_tester/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/meditest_tex_tester/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/meditest_tex_tester/index.html",
-    "main.a19e0433.css.map": "/meditest_tex_tester/static/css/main.a19e0433.css.map",
-    "main.dc038ba8.js.map": "/meditest_tex_tester/static/js/main.dc038ba8.js.map",
+    "main.664b7b4f.css.map": "/meditest_tex_tester/static/css/main.664b7b4f.css.map",
+    "main.fae63604.js.map": "/meditest_tex_tester/static/js/main.fae63604.js.map",
     "787.e1f00c95.chunk.js.map": "/meditest_tex_tester/static/js/787.e1f00c95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a19e0433.css",
-    "static/js/main.dc038ba8.js"
+    "static/css/main.664b7b4f.css",
+    "static/js/main.fae63604.js"
   ]
 }
